@@ -1,0 +1,15 @@
+Redirects to short URL
+
+---
+tags:
+  - Bookmarks
+parameters:
+  - in: path
+    name: short_url
+    required: true
+
+responses:
+  302:
+    description: Redirected to the original URL
+  404:
+    description: Record not found
