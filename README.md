@@ -1,6 +1,6 @@
 # Bookmarks-API
 
-The project you've described is a backend system that manages bookmarks and tracks the number of visits made by users to those bookmarks. It has been implemented using a RESTful API architecture and Python Flask framework.
+This project is a backend system that manages bookmarks and tracks the number of visits made by users to those bookmarks. It has been implemented using a RESTful API architecture and Python Flask framework.
 
 The purpose of the system is to provide users with a centralized platform to store and organize their bookmarks. Each user has their own account, which allows them to create, modify, and delete bookmarks according to their preferences. The backend handles the storage and retrieval of bookmark data, ensuring that each user's bookmarks are kept separate and secure.
 
